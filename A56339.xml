@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Pim's speech, deliverd at a conference betvvixt both Houses, concerning divers petitions presented to the House of Commons hee being appoynted to manage that conference. Ianu. XXV. M.D.CXLI.</title>
+            <title>Speech delivered at a conference with the Lords. January, XXV. MDCXLI.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56339</idno>
+            <idno type="STC">Wing P4282B</idno>
+            <idno type="STC">ESTC R219709</idno>
+            <idno type="EEBO-CITATION">99831161</idno>
+            <idno type="PROQUEST">99831161</idno>
+            <idno type="VID">35624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2095:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Pim's speech, deliverd at a conference betvvixt both Houses, concerning divers petitions presented to the House of Commons hee being appoynted to manage that conference. Ianu. XXV. M.D.CXLI.</title>
+                  <title>Speech delivered at a conference with the Lords. January, XXV. MDCXLI.</title>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>England and Wales. Parliament. House of Commons. Proceedings. 1642-01-25.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by cataloger; date of publication from Wing.</note>
+                  <note>This edition of Pym's speech does not include the two orders of the House of Commons printed with other editions.</note>
+                  <note>Year in title given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35624:1" rendition="simple:additions"/>
+            <head>M<hi rend="sup">r</hi>. Pim's Speech, Deliverd at a Conference betvvixt <hi>both Houſes, concerning divers Petitions</hi> preſented to the Houſe of COMMONS<g ref="char:punc">▪</g> Hee being appoynted to manage that <hi>Conference.</hi> IANU. XXV. MDCXLI.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the <hi>Knights, Citizens</hi> and <hi>Burgeſſes</hi> aſſembled for the <hi>Commons</hi> in <hi>Parliament,</hi> to preſent to your <hi>Lordſhips</hi> divers <hi>Petitions,</hi> which they have received from ſeverall parts concerning the State of the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ingdom:</hi> whereunto they are chiefly moved by that <hi>Conſtant affe<g ref="char:EOLhyphen"/>ction,</hi> which they have always expreſt, of maintaining a firme <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and good <hi>Correſpondence</hi> with your <hi>Lordſhips;</hi> wherin they have ever found much advantage, and contentment; but never held it more important and neceſſary, than at this time, wherein the <hi>Wiſdome</hi> and <hi>Reſolution</hi> of <hi>Parliament,</hi> have as many great <hi>Dangers</hi> and <hi>Difficul<g ref="char:EOLhyphen"/>ties</hi> to paſſe through, as ever heretofore.</p>
+            <p>We are <hi>
+                  <g ref="char:V">Ʋ</g>nited</hi> in the publique truſt, which is derived from the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth</hi> in the common <hi>Duty</hi> and <hi>Obligation</hi> whereby God doth bind us to the diſcharge of that truſt: and the <hi>Commons</hi> deſire to impart to your <hi>Lordſhips</hi> whatſoever <hi>Information</hi> or <hi>Intelligence,</hi> whatſoever <hi>In<g ref="char:EOLhyphen"/>couragement</hi> or <hi>Aſſiſtance</hi> they have received from thoſe ſeverall <hi>Countries,</hi> which they repreſent, that ſo likewiſe we may be <hi>
+                  <g ref="char:V">Ʋ</g>nited</hi> in the ſame <hi>In<g ref="char:EOLhyphen"/>tentions</hi> and <hi>Endeavours</hi> of improving all to the ſervice of his <hi>Majeſty,</hi> and the common good of the <hi>Kingdome.</hi>
+            </p>
+            <p>The <hi>Petitions</hi> which I am directed to communicate to your <hi>Lordſhips,</hi> are foure: from <hi>London, Midleſex, Eſſex</hi> and <hi>Hertforaſhire<g ref="char:punc">▪</g>
+               </hi> We have re<g ref="char:EOLhyphen"/>ceived many more, but it would take up too much time, and be too great a trouble to peruſe all; and, in thoſe foure, you may perceive the <hi>Effect</hi> and <hi>Senſe</hi> of all. Firſt, I am to deſire your <hi>Lordſhips</hi> to heare them read, and then I ſhall perſue my <hi>Inſtructions</hi> in propounding ſome <hi>Obſervati<g ref="char:EOLhyphen"/>ons out of them.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:35624:2"/>
+            <head>
+               <hi>The Petitions being read by foure ſeverall Members of the Houſe, M<hi rend="sup">r</hi>.</hi> PIM <hi>reaſſumed his Diſcourſe.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N theſe foure Petitions you may heare the voyce or rather the cry of all <hi>England,</hi> and you cannot wonder if the ur<g ref="char:EOLhyphen"/>gency, the extremity of the condition wherein we are, do produce ſome earneſtnes and vehemency of expreſſion more than ordinary; the agony, terror, and perplexity in which the Kingdom labours, is univerſall, all parts are af<g ref="char:EOLhyphen"/>fected with it; and therefore in theſe you may obſerve the groanes and miſerable complaints of all.</p>
+            <p>Divers reaſons may be given why thoſe diſeaſes which are Epidemi<g ref="char:EOLhyphen"/>call are more dangerous than others. The Cauſe of ſuch diſeaſes is univer<g ref="char:EOLhyphen"/>ſall and ſupernall, not from an evill conſtitution, or evill diet, or any o<g ref="char:EOLhyphen"/>ther accident: and ſuch cauſes work with more vigour and efficacy, than thoſe which are particular and inferior. 2. In ſuch diſeaſes there is a com<g ref="char:EOLhyphen"/>municative quality, whereby the malignity of them is multiplied and en<g ref="char:EOLhyphen"/>forced. 3. They have a converting, transforming power that turns other diſeaſes and evill affections of mens bodies into their own nature.</p>
+            <p>The common and epidemical diſeaſe wherein this Commonwealth lies now gaſping, hath a ſuperior and univerſall cauſe from the evill Counſels and deſignes of thoſe, who under his Majeſty beare the greateſt ſway in Government. 2. It hath a contagious and infectious quality, whereby it is diffuſed and diſperſed through all parts of the Kingdom. 3. It is apt to take in the diſcontents, evill affections and deſignes of particular perſons to increaſe and fortifie it ſelfe.</p>
+            <p>I ſhall take occaſion from ſeverall branches of thoſe Petitions which your Lordſhips have heard, to obſerve.</p>
+            <list>
+               <item>1 The variety of Dangers to which this Kingdom is now ſubject.</item>
+               <item>2 The manifold diſtempers which is the cauſe of thoſe dangers.</item>
+               <item>3 The multiplicity of thoſe evill Influences which are the Cauſes of that diſtemper.</item>
+            </list>
+            <p>The firſt danger is from enemies abroad; this may ſeem a cauſeles and impertinent obſervation at this time, ſeeing we are in peace with all Na<g ref="char:EOLhyphen"/>tions about us: But (my Lords) you may be pleaſed to conſider that the ſafety of the Kingdom ought not to depend upon the will and diſpoſiti<g ref="char:EOLhyphen"/>on of our Neighbours, but upon our own ſtrength and proviſion; betwixt States there are often ſudden changes, from peace to war, according to occaſion &amp; advantage. All the States of Chriſtendom are at now arm'd, and we have no reaſon to beleeve but that thoſe of greateſt power have
+<pb n="3" facs="tcp:35624:2" rendition="simple:additions"/>
+an evill Eye upon us in reſpect of our Religion: And if their private dif<g ref="char:EOLhyphen"/>ferences ſhould be co<g ref="char:cmbAbbrStroke">̄</g>poſed, how dangerouſly, how ſpeedily might thoſe great Armies and other preparations now ready, be applied to ſome En<g ref="char:EOLhyphen"/>terpriſe and Attempt againſt us? and if there were no other Cauſe, this were ſufficient to make us ſtand upon our Guard; but there are divers more eſpecially ſymptomes of dangers of this kind.</p>
+            <p>We may perceive by ſeverall Advertiſements from abroad, that they did foreſee our dangers many Months before they broke out; they could foretell the time and Manner of them, which is a cleare evidence, they held Intelligence with thoſe which were the Contrivers and workers of the preſent troubles.</p>
+            <p>We have many dangerous Traytors and Fugitives now in other parts who can diſcover the weaknes and diſtemper of the Kingdom; who hold Intelligence with the ill-affected party here, and by all cunning and ſubt<g ref="char:EOLhyphen"/>le practiſes endeavor to incite and provoke other Princes againſt us.</p>
+            <p>Some of the Miniſters of our neighbour Princes may bee juſtly ſuſpe<g ref="char:EOLhyphen"/>cted to have had a more immediate hand and operation in the Inſurre<g ref="char:EOLhyphen"/>ction and Rebellion of <hi>Ireland,</hi> many of the Commanders and moſt of the Souldiers levied for the ſervice of <hi>Spaine,</hi> are now joyned with the Rebels there: and thoſe <hi>Iriſh</hi> Friars, which were imployed by the Spa<g ref="char:EOLhyphen"/>niſh Ambaſſadour for the making of thoſe levies, are knowne to have been chief Incendiaries to this Rebellion, and are ſtill very active in the proſecution and incouragement of it.</p>
+            <p>The Rebels have a reay and ſpeedy ſupply from ſome of our Neigh<g ref="char:EOLhyphen"/>bours. Two Convoyes of Munition and Armes we are certainly infor<g ref="char:EOLhyphen"/>med of: one, from <hi>Dunkirke,</hi> the other, from <hi>Nantes</hi> in <hi>Brita<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y:</hi> and cer<g ref="char:EOLhyphen"/>tainly thoſe that are ſo forward to enable others to hurt us, will not for<g ref="char:EOLhyphen"/>bear to hurt us themſelve, aſſoon as they ſhall have means and opportu<g ref="char:EOLhyphen"/>nity to do it.</p>
+            <p>Another danger is from the Papiſts and ill-affected Party at home. The Papiſts here, are acted by the ſame principles, with thoſe in <hi>Ireland;</hi> many of the moſt active of them have lately been there; which argues an inter<g ref="char:EOLhyphen"/>courſe and communication of councels. They have ſtill ſtore of Arms and Munition at their diſpoſing, notwithſtanding all our endeavours to diſ<g ref="char:EOLhyphen"/>arm them, they have a free reſort to the City and to the Court, they want no oportunities to conſult together; they have the ſame or greater incou<g ref="char:EOLhyphen"/>ragements from above, and from about them, than ever, in reſpect of the example and ſucceſſe of the Rebels in <hi>Ireland,</hi> and the great conſuſions &amp; diviſions, which by their cunning and ſubtile practiſes, are raiſed and fo<g ref="char:EOLhyphen"/>mented amongſt our ſelves at home.</p>
+            <p>3 A third Danger is of Tumults and Inſurrections of the meaner ſort
+<pb n="4" facs="tcp:35624:3"/>
+of people: by reaſon of their ill vent of Cloth and other Manufactures, whereby great multitudes are ſet on work, who live for the moſt upon their dayly gettings, and will in a very ſhort time be brought to great extremity, if not imployed: Nothing is more ſharp and preſſing than neceſſity and want; what they cannot buy they will take, and from them the like neceſſity will quickly bee derived to the Farmours and Husbandmen; and ſo, grow higher, and involve all in an equality of mi<g ref="char:EOLhyphen"/>ſery and diſtreſſe, if it be not prevented. And at this time ſuch Tumults will be dangerous, becauſe the Kingdom is full of disbanded Souldiers, and Officers, which will be ready to head and to animate the Multitude to commit violence with more ſtrength and advantage: and if they once grow into a Body, it will be much more difficult to reduce them into order again, becauſe neceſſity and want, which are the cauſes of this diſturbance, will ſtill increaſe as the effects do increaſe.</p>
+            <p>A fourth Danger is from the Rebels in <hi>Ireland,</hi> not only in reſpect of that Kingdom, but in reſpect of this, They have ſeized upon the Body of that Kingdom already, they abound in men of very able bodies, they in<g ref="char:EOLhyphen"/>creaſe in Armes and Munition, they have great hopes of ſupplies from abroad, of incouragement here, and are ſure of good intertainment from the Popiſh party, ſo that they begin to ſpeak already of the tranſporting themſelves hither, and making this Kingdom the ſeat of the war.</p>
+            <p>The Diſtemper which hath produced theſe dangers is various and ex<g ref="char:EOLhyphen"/>ceeding violent. Whenſoever nature is hindred in her proper operations and faculties, diſtempers will neceſſarily follow.</p>
+            <p>The obſtructions which have brought us into this diſtemper, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e very many, ſo that wee cannot wonder at the ſtrength and malignity of it. Some of the chiefeſt of theſe obſtructions, I ſhall endeavour to remember.</p>
+            <p n="1">1. The obſtruction of Reformation in matters of Religion: no Grie<g ref="char:EOLhyphen"/>vances are ſharper than thoſe that preſſe upon the tender conſciences of men; and there was never Church or State afflicted with more Grie<g ref="char:EOLhyphen"/>vances of this kind, then we have been. And though they are by the wiſ<g ref="char:EOLhyphen"/>dome of this Parliament partly eaſed and diminiſhed, yet many ſtill re<g ref="char:EOLhyphen"/>maine: and as long as the Biſhops and the corrupt part of the Cleargy continue in their Power, there will be little hope of Freedome either from the ſenſe of thoſe which continue, or the feare of thoſe which are removed. And of this obſtruction, (my Lords) I muſt clear the <hi>Commons,</hi> we are in no part guilty of it: ſome good Bils have paſt us, and others are in preparation, which might have been paſt before this, if we had not found ſuch ill ſucceſſe in the other. Whatſoever miſchiefe this obſtruction ſhall produce, we are free from it: we may have our part of the Miſery, we can have no part in the <hi>guilt</hi> or diſhonor.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:35624:3" rendition="simple:additions"/>
+2. An obſtruction in Trade, it is the Trade that brings food and nou<g ref="char:EOLhyphen"/>riſhment to the Kingdome. It is that which preſerves and increaſeth the ſtock of the whole, and diſtributes a convenient Portion of maintenance to every part of it: therefore ſuch an obſtruction as this muſt needs be dangerous; the Freedome of Trades being ſo neceſſary, the benefit ſo im<g ref="char:EOLhyphen"/>portant, as that it gives life, ſtrength, and beauty to the whole Body of the Common-wealth<hi>:</hi> but I muſt proteſt the <hi>Houſe of Commons</hi> hath gi<g ref="char:EOLhyphen"/>ven no cauſe to this obſtruction; we have eaſ'd Trade of many Burdens, and heavy Taxes which are taken off; we have freed it from many hard reſtraints by Pattents and Monopolies; we have been willing to part with our own Priviledges, to give it Incouragement; we have ſought to put the Merchants into Security and confidence in reſpect of the Tower of <hi>London,</hi> that ſo they might be invited to bring in their Bullion to the Mint, as heretofore they have done<hi>:)</hi> and we are no way guilty of the Troubles, the feares, and publike dangers which make men withdraw their Stocks, and to keep their mony by them, to be ready for ſuch ſudden exigences, as in theſe great diſtractions we have toomuch cauſe to expect.</p>
+            <p n="3">3. The obſtruction in the reliefe of <hi>Ireland.</hi> It muſt needs be accompted a great ſhame and diſhonour to this Kingdom, that our Neighbors have ſhewed themſelves more forward to ſupply the Rebells, then we have been to relieve our diſtreſſed brethren and fellow-Subjects. But I muſt declare that we are altogether innocent of any neglect herein. As ſoone as the firſt newes of the Rebellion came over, we undertooke the War, not by way of Supply and Ayde, as in former Rebellions the Subjects have uſed to do, but we undertook the whole charge of it, and we ſuffe<g ref="char:EOLhyphen"/>red not 24 houres to paſſe, before we agreed to a great Leavy of Mony and Men, to be imployed againſt the Rebels, even in a larger proportion, then the Lord Iuſtices and Counſell there did deſire: and from time to time we have done all for the furtherance thereof, though in the midſt of ma<g ref="char:EOLhyphen"/>ny diſtractions and diverſions, but the want of Commiſſions for leavy<g ref="char:EOLhyphen"/>ing Men, for iſluing Armes, and divers other impediments, have been the Cauſes of that obſtructions; and I wiſh we had not only found impedi<g ref="char:EOLhyphen"/>ments to our ſelves, but alſo incouragements to them. Many of the chiefe Commanders, now in the Head of the Rebells, after we had with your Lorps. concurrence ſtopt the Ports againſt all <hi>Iriſh</hi> Papiſts, have been ſuf<g ref="char:EOLhyphen"/>fered to paſſe by his Majeſties immediate Warrant, much to the diſcou<g ref="char:EOLhyphen"/>ragement of the Lord Iuſtices and the Counſel there; and, this procured, as we beleeve, by ſome evill Inſtruments, too neere his Regall Perſon, without his Majeſties knowledge and intention.</p>
+            <p n="4">4 The obſtruction in proſecution of Delinquents: many we have al<g ref="char:EOLhyphen"/>ready brought up to your Lordſhips: divers others we have been diſ<g ref="char:EOLhyphen"/>couraged
+<pb n="6" facs="tcp:35624:4"/>
+to tranſmit; ſuch difficult proceedings have we met withall; ſuch teerors and diſcountenance have beene caſt upon our ſelves and our witneſſes; and thoſe who have ſhewed themſelves their friends Patrons, have found it the moſt ready way to preferment; yea his Majeſties own hand hath been obtained, his Majeſties Ships imployed for the tranſpor<g ref="char:EOLhyphen"/>ting of divers of thoſe who have fled from the juſtice of the <hi>Parliament.</hi>
+            </p>
+            <p n="5">5 A generall obſtruction and interruption of the proceedings of <hi>Par<g ref="char:EOLhyphen"/>liement,</hi> by thoſe manifold deſigns of violence (which through Gods mer<g ref="char:EOLhyphen"/>cy we have eſcaped;) by the great and frequent breaches of Priviledge; by the ſubtile endeavours to raiſe parties in our Houſe, and jealouſies be<g ref="char:EOLhyphen"/>twixt the two Houſes.</p>
+            <p n="6">6 The obſtruction in providing for the defence of the Kingdom, that we might be inabled to reſiſt a forrain Enemy, to ſuppreſſe all Civill in<g ref="char:EOLhyphen"/>ſurrections: and what a preſſing neceſſity there is of this, the exceeding great decayes in the Navy, in the Forts, in the power of ordering the <hi>Militia</hi> of the Kingdome, and meanes of furniſhing them Munition, are ſufficient evidences, known to none better than to your Lordſhips, and what endeavour we have uſed to remove them (but hitherto without that ſucceſſe and concurrence which we expected:) and where the ſtop hath been, and upon what good grounds we may claime our own inno<g ref="char:EOLhyphen"/>cency and faithfulnes in this, we deſire no other Witneſſes but yourſelves.</p>
+            <p>Laſtly, I come to the evil influences which have cauſed this diſtemper, and I ſhal con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent my ſelfe to mention ſome few of thoſe which are moſt Apparant and Important.</p>
+            <p n="1">1 In the firſt place, I ſhall remember the evill Counſels about the King, whereof we have often complained. Diſeaſes of the Braine are moſt dahgerous, becauſe from thence Senſe and Motion are derived to the whole Body. The malignity of evill Counſels will quickly be infuſed in<g ref="char:EOLhyphen"/>to all parts of the State. None can doubt but we have exceedingly labou<g ref="char:EOLhyphen"/>red under moſt dangerous and miſchievous Counſels. This evill influence hath been the cauſe of the preparation of War with <hi>Scotland,</hi> of the pro<g ref="char:EOLhyphen"/>curing a Rebellion in <hi>Irelrnd,</hi> of corrupting Religion, ſuppreſſig the Li<g ref="char:EOLhyphen"/>berty of this Kingdome, and of many fearefull and horrid attempts, to the ſubverting the very being of <hi>Parliament,</hi> which was the only hopeful means of oppoſing and preventing all the reſt<hi>:</hi> And this doth appeare to be a moſt predominant evill of the Time; whereat we need not wonder, when we conſider how Councellours have been preferred and prepared. And I appeale to your Lordſhips own Conſciences, whether the giving, and the countenancing of evill Councell, hath not been almoſt the only way to favour and advancement.</p>
+            <p n="2">2 The diſcouragement of good Councell: divers honeſt and appro<g ref="char:EOLhyphen"/>ved
+<pb n="7" facs="tcp:35624:4" rendition="simple:additions"/>
+Councellours have been put from their places: others ſo diſcounte<g ref="char:EOLhyphen"/>nanced as the way of favour hath been ſhut againſt them, and that of danger and deſtruction only open to them.</p>
+            <p n="3">3 The great Power that an intereſſed and factious party hath in the <hi>Parliament,</hi> by the continuance of the Votes of the Biſhops and Popiſh Lords in your Lordſhips Houſe; and the taking in of others both out of the <hi>Houſe of Commons,</hi> and otherwiſe, to encreaſe their ſtrength.</p>
+            <p n="4">4 The ſometing and cheriſhing of a malignant party throughout the whole Kingdome.</p>
+            <p n="5">5 The manifold jealouſies betwixt the King, his <hi>Parliament,</hi> and good Subjects, whereby his protection and favour hath in a great mea<g ref="char:EOLhyphen"/>ſure been witheld from them: their inclination and reſolution to ſerve and aſſiſt him, hath been very much hindered and interrupted: We have often ſuffered under the miſ-interpretation of good actions, and falſe in<g ref="char:EOLhyphen"/>portation of evill, which we never intended. So that we may juſtly purge our ſelves from all guilt of being Authors of this jealouſie and miſ-underſtanding: We have been, and are ſtill ready to ſerve his Ma<g ref="char:EOLhyphen"/>jeſty with our lives and fortunes, with much cheerfulneſſe and earneſt<g ref="char:EOLhyphen"/>neſſe of affection, as ever any Subjects were; and we doubt not but our proceedings will ſo manifeſt this, that we ſhall be as cleare in the ap<g ref="char:EOLhyphen"/>prehenſion of the world, as we are in the teſtimony of our own Con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <p>I am now come to a Concluſion, and I have nothing to propound to Your Lordſhips by way of Requeſt or deſire from the Houſe of Com<g ref="char:EOLhyphen"/>mons: I doubt not but yout judgements wil tell you, what is to be don; your Conſciences, your Honours, your intereſts will call upon you for the doing of it; the <hi>Commons</hi> will be glad to have your helpe and con<g ref="char:EOLhyphen"/>currence in ſaving of the Kingdome; but if they ſhould faile of it, it ſhould not diſcourage them in doing their duty. And whether the King<g ref="char:EOLhyphen"/>dome be loſt or ſaved (as through Gods bleſſing I hope it will be) they ſhal beſorry that the ſtory of this preſent <hi>Parliament</hi> ſhould tel Poſterity, that in ſo great a danger and extremity, the <hi>Houſe of Commons</hi> ſhould be inforced to ſave the Kingdome alone, and that the Houſe of Peeres ſhould have no part in the honor of the preſervation of it, you having ſo great an intereſt in the good ſucceſſe of thoſe endeavours, in reſpect of your great Eſtates, and high degrees of Nobility.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
